@@ -6,3 +6,23 @@ h1 {
   text-align: center;
   background-color: darkcyan;
 }
+
+body {
+  background-color: darkslategray;
+}
+
+h2 {
+  padding: 15px;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  margin-top: 30px;
+  background-color: gray;
+}
+
+button {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 15px;
+}
