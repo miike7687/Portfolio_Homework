@@ -76,6 +76,6 @@ First, I did some searching on CSS Bootstrap to find some layouts and components
 
 You are required to submit the following:
 
-- The URLs of the deployed applications
+- The URLs of the deployed applications (x)
 
-- The URLs of the GitHub repositories
+- The URLs of the GitHub repositories (x)
