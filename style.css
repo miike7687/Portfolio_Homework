@@ -37,3 +37,8 @@ button {
   margin-top: 20px;
   font-size: 17px;
 }
+
+#about-me {
+  text-align: center;
+  color: aqua;
+}
