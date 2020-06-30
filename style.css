@@ -52,3 +52,9 @@ button {
 .thumbnail-info {
   background-color: floralwhite;
 }
+
+footer {
+  text-align: center;
+  background-color: grey;
+  margin-top: 15px;
+}
