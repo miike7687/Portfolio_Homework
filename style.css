@@ -1,7 +1,8 @@
+/* Font for everything unless edited later */
 * {
   font-family: "Piedra", cursive;
 }
-
+/* Align my name center with a background color that pops */
 h1 {
   text-align: center;
   background-color: darkcyan;
@@ -14,14 +15,14 @@ body {
 h2 {
   padding: 15px;
 }
-
+/* Style the container in my Contact Page */
 .container {
   width: 80%;
   margin: auto;
   margin-top: 30px;
   background-color: gray;
 }
-
+/* Style the container on my homepage */
 .container1 {
   width: 80%;
   margin: auto;
