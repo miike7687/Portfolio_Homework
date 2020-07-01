@@ -58,3 +58,8 @@ footer {
   background-color: grey;
   margin-top: 15px;
 }
+
+.card-position {
+  width: 18rem;
+  margin: 0 auto;
+}
